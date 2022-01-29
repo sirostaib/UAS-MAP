@@ -1,16 +1,26 @@
-# unipro
+# unipro 
+# that is the project nickname if you want to run the project, 
+# you have to download the files and open them in vs code then you should write the following commmands: 
+    cd root_folder_path
+    flutter create .
+    flutter run
 
-A new Flutter project.
+University Attendance System - UAS.
 
-## Getting Started
+## Mobile Application Programming
 
-This project is a starting point for a Flutter application.
+This project is an application that is for lecturers to take attendance and for students to view their attendance record on a mobile application.
+It is connected to a firebase firestore database and we used REST and CRUD operations to save and manipulate necessary data. 
 
-A few resources to get you started if this is your first Flutter project:
+You can view the video explanation of this project in the link below:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Video: ](https://youtube.com)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Info about the group members:
+  Siroz Ali Taib
+  Suhaib Sameer
+  Kardo Faruq
+  Landy Ibrahim
+  
+
